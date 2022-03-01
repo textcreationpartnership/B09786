@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prince Butler's querical demonstrations relating to the East-India trade</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09786</idno>
+            <idno type="STC">Wing P3479A</idno>
+            <idno type="STC">ESTC R187115</idno>
+            <idno type="EEBO-CITATION">61297137</idno>
+            <idno type="OCLC">ocm 61297137</idno>
+            <idno type="VID">180653</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09786)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180653)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2838:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prince Butler's querical demonstrations relating to the East-India trade</title>
+               </titleStmt>
+               <extent>1 sheets ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by A. Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint taken from colophon.</note>
+                  <note>"Part II."</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company.</term>
+               <term>East Indies --  Commerce --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  East Indies --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180653:1" rendition="simple:additions"/>
+            <head>
+               <hi>Prince Butler</hi>'s QUERICAL DEMONSTRATIONS Relating to The Eaſt-India Trade. Part II.</head>
+            <p n="1">1. SInce ſome very good Friends, of both <hi>Old</hi> and <hi>New Stocks,</hi> are endeavouring, by all honeſt ways, together, to joyn, and in order thereto, are <hi>Writing, Pleading,</hi> and <hi>Printing</hi> their Caſes; and ſince <hi>Loſers</hi> have always the Liberty to ſpeak, why may not I as well <hi>Print</hi> and <hi>Plead</hi> my Caſe; For I am ſure I have as much, <hi>nay more</hi> reaſon to do it than they?</p>
+            <p n="2">2. If theſe two contending <hi>Stocks</hi> be made one, and the <hi>Engliſh Manufacturers</hi> Caſe be not taken ſome care of, I can, without Star-gazing, plainly foreſee, That they, and ſome <hi>other Folks,</hi> ſoon <hi>Ruin'd</hi> will be; And therefore pray, Mind what I ſay; If not for their ſakes, for your own, be pleas'd to take care on't.</p>
+            <p n="3">3. Is it not much more demonſtrable, That the <hi>Eaſt-India</hi> Trade is of greater advantage to <hi>England</hi> than 'twas two Years ago; For ſince that time, it has in a great meaſure Ruined the <hi>Canterbury Silk Trade,</hi> and obliged moſt of the <hi>London Silk Weavers, Throwſters,</hi> &amp;c. to give over their ſeveral Trades and Employments?</p>
+            <p n="4">4. Will not this be of great Advantage to all the <hi>Clothing Counties</hi> in <hi>England,</hi> becauſe ſome of theſe poor People, rather than ſtarve, are gone to <hi>Ireland,</hi> and ſet up Trade there; others fall'n to <hi>Comb, Card,</hi> and <hi>Spin;</hi> make <hi>Cloths; Stuffs</hi> and <hi>Serges;</hi> who being at the Principal Mar<g ref="char:EOLhyphen"/>ket, can make and ſell them as well, or better, than the Country Weaver and Clothier can do?</p>
+            <p n="5">5. Does not Sir <hi>Joſ. Child,</hi> who is well known to be Skilful in Trade, prove plainly, That the <note place="margin">Diſcourſe of Trade. <hi>The Pre<g ref="char:EOLhyphen"/>face.</hi>
+               </note> 
+               <hi>Eaſt-India</hi> Trade ought to be greatly Encouraged, when he tells us in Print, That <hi>the Expence of Foreign Commodities, eſpecially Foreign Manufactures, is the worſt Expence a Nation can be inclinable to, and ought to be prevented as much as poſſible?</hi>
+            </p>
+            <p n="6">6. Has not the <hi>Author</hi> of the Eſſay on the <hi>E. India Trade,</hi> as ſufficiently proved it Gainful, not <note place="margin">Eſſay on the <hi>Eaſt-India Trade</hi> page 14.</note> only to us, but all <hi>Europe,</hi> when he tells us, <hi>They had been Richer by a full Third than they now are, if that Trade had never been Diſcovered or Undertaken; and that it bears hard only upon thoſe Countries that Conſume thoſe Commodities?</hi>
+            </p>
+            <p n="7">7. Is it not plain, That it bears not hard upon <hi>England,</hi> ſince it could never be proved (and I <hi>challenge</hi> any now to do it) That we Conſume at <hi>Home,</hi> in <hi>Ireland,</hi> or our <hi>Plantations,</hi> above nine parts in ten: Or that in Foreign Parts (except our Plantations, <hi>&amp;c)</hi> there are Conſumed above one eighth part of the <hi>Wrought Silks, Bengals,</hi> and <hi>Printed Callicoes?</hi>
+            </p>
+            <p n="8">8. Since 'tis allowed this Trade is hurtful to <hi>Europe,</hi> and all are agreed in a General Peace, What if they ſhould agree to Baniſh it out of all their Dominions? But if not, Why ſhould we reſtrain any part, Since <hi>we have nothing from thence of ſolid Uſe,</hi> (but) <hi>Materials for Luxury, and</hi> 
+               <note place="margin">Page 12.</note> 
+               <hi>periſhable Commodities, for our Gold and Silver, which is there buried,</hi> as the ſame <hi>Author</hi> tells us?</p>
+            <p n="9">9. Is it not better we ſhould be at four or five hundred thouſand Pounds Charge <hi>per An.</hi> for <hi>In<g ref="char:EOLhyphen"/>dian Vanities,</hi> having ſuch plenty of Money, than for the ſake of imploying our own <hi>Poor,</hi> upon our own <hi>Wooll,</hi> diſoblige ſeveral <hi>Maids</hi> and their <hi>Miſtreſſes,</hi> who would then be at a loſs how to Dreſs up <hi>themſelves,</hi> their <hi>Chambers, Parlours,</hi> and <hi>Cloſets?</hi>
+            </p>
+            <p n="10">10. Is it not our Intereſt (as the Eſſayer tells us) to wear theſe <hi>Indian</hi> Manufactures, becauſe they would ſoon bring down the price of our own ſo low, <hi>That we may Export them to all Foreign</hi> 
+               <note place="margin">Page 29.</note> 
+               <hi>Markets, and be able to under ſell all Nations;</hi> For (ſurely) they neither can, or will ever think of falling in their Prices as we do.</p>
+            <p n="11">11. Or if they ſhould, rather than leave off and <hi>ſtarve,</hi> ſell their Commodities as cheap as we, Pray what ſhall we get by this <hi>Learned Advice,</hi> ſince, after all, our Reducing the <hi>Indian,</hi> that Work for a Peny a Day, will out do us all, unleſs we're reſolv'd to Work as Cheap, or Cheaper than they?</p>
+            <p n="12">12. Will not the Falling the Prices reduce the Wages of the <hi>Poor,</hi> and by that means make the Nation grow <hi>Rich,</hi> ſince Sir <hi>Joſ. Child</hi> has very well obſerved, <hi>That where ever Wages are high,</hi> 
+               <note place="margin">Preface.</note> 
+               <hi>throughout the whole World, it is an</hi> infallible <hi>Evidence of the Riches of that Country; And where Wages for Labour runs low, 'tis a proof of the Poverty of that Place?</hi>
+            </p>
+            <p n="13">13. But if bringing down the Prices will be ſuch an Advantage, Why may we not as well ſend for the <hi>Corn</hi> we ſpend to the <hi>Eaſt Country,</hi> for theirs is much cheaper than ours? And then we may ſend our own <hi>Corn</hi> with our own <hi>Cloth,</hi> &amp;c. to ſeek Abroad for a Market; Would not this ſoon Raiſe the Value of all the <hi>Rents</hi> and <hi>Lands</hi> in <hi>England?</hi>
+            </p>
+            <p n="14">14. And to ſave yet the more, employ the <hi>Dutch Shipping,</hi> for they always Sail much cheaper than we do, and then we may ſend our own <hi>Ships</hi> to all Foreign Nations, that either want, or will hire them, or elſe ſave the Building of more, to the much greater Preſervation of both our <hi>Seamen</hi> and <hi>Timber?</hi>
+            </p>
+            <p n="15">15. And if nought but cheap Working will vend our Commodities, let's to't in good earneſt, <note place="margin">Page 27.</note> and Employ the <hi>Twelve hundred Thouſand</hi> which the Eſſay tells us receives Alms, which by the way is a very great Number, and ſhews how much we want the <hi>poor Indians</hi> to Work for us, and they ſure
+<pb facs="tcp:180653:2"/> will bring down the Prices ſo low, that when our Money is gone, the <hi>Indians</hi> will take ſome <hi>Stuffs</hi> for their <hi>Callicoes.</hi>
+            </p>
+            <p n="16">16. What if the <hi>Landed Men</hi> ſhould apprehend, that this would <hi>Begger</hi> their <hi>Tenants,</hi> and <hi>Fall</hi> all their <hi>Rents,</hi> Can't we by another <hi>Eſſay,</hi> with <hi>Rhetorical Flouriſhes,</hi> amuſe them, and then by <hi>imaginary,</hi> or <hi>fabulous</hi> Computation, <hi>&amp;c.</hi> prove this cannot be; Or that 'tis our <hi>Intereſt</hi> it ſhould be ſo, rather than reſtrain the <hi>Eaſt-India</hi> Trade?</p>
+            <p n="17">17. Has not this Nation been great Gainers for many Years by the uſe of <hi>Muſlings</hi> and <hi>Calli<g ref="char:EOLhyphen"/>coes,</hi> which are worn in the room of <hi>German Linnens, Sileſia Cambricks,</hi> and <hi>Lawns?</hi> For the firſt we have had for our <hi>Money</hi> and <hi>Bullion:</hi> The laſt were the Return of our own <hi>Woollen Mann<g ref="char:EOLhyphen"/>factures,</hi> which now we can keep for our own uſe at Home.</p>
+            <p n="18">18. Were not the <hi>Sileſians</hi> very great <hi>Fools,</hi> when we would not take off their <hi>Cambricks</hi> and <hi>Lawns,</hi> to ſet up the making of <hi>Woollen,</hi> with which they now ſupply both themſelves and their Neighbours; Whereas we could yet have very well ſerved them both for their <hi>Money?</hi> And may not ſome others ſoon follow ſuch <hi>fooliſh</hi> Examples?</p>
+            <p n="19">19. If the <hi>Parliament</hi> would be ſo kind as to take off the Duty from courſe <hi>Callicoes,</hi> which be<g ref="char:EOLhyphen"/>ing from twenty to fifty <hi>per Cent.</hi> is a very great Clog upon them; We could then alſo ſoon beat them out of moſt of the reſt of their <hi>Linnens,</hi> which might be as much more for the <hi>Profit</hi> and <hi>Gain</hi> of this Kingdom.</p>
+            <p n="20">20. But if this will leſſen the <hi>Cuſtoms,</hi> we're content they ſhould double the Duties on all Wrought Silks; for they may well bear about 25 <hi>per Cent.</hi> And being ſuch <hi>Bulky Commodities,</hi> ſure none will Run them to ſave ſuch ſmall Cuſtoms, or the Ladies wear them when they'll be ſo dear: And will not this pleaſe the <hi>Clamorous Silk Weavers?</hi>
+            </p>
+            <p n="21">21. Or if they <hi>complain</hi> ſtill, Can any one think the <hi>Parliament</hi> may not have ſome regard to ſo conſiderable a Company of <hi>poor Manufacturers</hi> as they are? When as, with no very great <hi>dif<g ref="char:EOLhyphen"/>ficulty,</hi> they lately paſs'd an Act for <hi>Relief</hi> and <hi>Support</hi> of the <hi>Hair</hi> and <hi>Silk</hi> Button-Makers?</p>
+            <p n="22">22. If the <hi>Eaſt India</hi> Company had Imported theſe Commodities, would it not have been eaſier for theſe <hi>Button Makers</hi> to have gained their Bill? And ſince the <hi>Parliament</hi> have paſt an Act in fa<g ref="char:EOLhyphen"/>vour of the <hi>Trimmings,</hi> may they not in time do as much for the Principal Parts of the <hi>Garments?</hi>
+            </p>
+            <p n="23">23. And now to conclude: To your ſelves be ſo <hi>kind,</hi> Theſe Quericals <hi>mind,</hi> For they are <hi>deſign'd,</hi> To inform all <hi>Mankind,</hi> So as Truth they may <hi>find,</hi> If <hi>not</hi> wilfully <hi>Blind:</hi> But whoſoe'r by private Intereſt is <hi>ſway'd,</hi> Or Money have <hi>paid,</hi> To the <hi>Eaſt-India Aid,</hi> I am very much <hi>afraid,</hi> That for all I have <hi>ſaid,</hi> They will me <hi>upbraid,</hi> And cry out <hi>I am Mad.</hi>
+            </p>
+            <p n="24">24. But if they do, I muſt tell them <hi>plain,</hi> I find in my <hi>Brain,</hi> So much Senſe ſtill <hi>remain,</hi> As the Cauſe I'll <hi>maintain,</hi> 'Gainſt them and their <hi>Train:</hi> Therefore don't <hi>diſdain,</hi> My Queri<g ref="char:EOLhyphen"/>cal <hi>Strain,</hi> And I ſhall <hi>remain,</hi> Your Friend as <hi>before,</hi> To ſtand at your <hi>Door,</hi> To plead for the <hi>Poor,</hi> And have yet in <hi>ſtore,</hi> Of ſuch Quericals <hi>more,</hi> At leaſt a whole <hi>Score:</hi> Which you may have when you pleaſe.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed, and are to be Sold by <hi>A. Baldwin</hi> in <hi>Warwick-Lane,</hi> 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
